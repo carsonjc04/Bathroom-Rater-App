@@ -13,7 +13,7 @@ This project was done in Swift and aims to create a focused bathroom rating appl
 1. **Clone the Repository**  
    Clone the project repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/game-launcher.git
+   git clone https://github.com/your-username/Bathroom-Rater-App.git
    ```
 2.
    ```bash
